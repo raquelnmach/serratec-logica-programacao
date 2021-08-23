@@ -1,0 +1,20 @@
+Quantidade de vendedores da loja == Inteiro
+Nome da rua, com número e complemento == Texto
+Preço do etanol comum == Real
+Estado de iluminação de uma lâmpada == Boolean
+CEP do endereço, com hífen == Texto
+Mostrador com um dígito dentro do elevador, indicando o andar do prédio onde ele está passando == Inteiro
+Led que indica o pressionamento do botão do elevador == Boolean
+Data de aniversário do professor == Data 
+Peso do prato na balança do restaurante == Real
+Número de bois no curral da fazenda == Inteiro
+Dia completo da páscoa nesse ano == Texto 
+Quantidade de laranjas na caixa == Inteiro
+Uma vogal minúscula == Caractere
+Título de um livro == Texto
+Limite do cartão de crédito == Real
+Horário de transmissão do jogo == Data
+Altura de um prédio == Real
+Páginas do caderno == Inteiro
+Sala de reunião está disponível (ou ocupada) == Boolean
+Alternativas do enunciado da questão de múltipla escolha == Caractere
