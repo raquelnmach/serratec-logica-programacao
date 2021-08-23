@@ -1,0 +1,2 @@
+# serratec-logica-programacao
+Exercicios
